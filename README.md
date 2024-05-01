@@ -1,6 +1,9 @@
 # DS5690_project
 
 ## Overview
+
+The project is an innovative application designed to enhance the accuracy and efficiency of Nike shoe classification using advanced machine learning techniques. This project leverages the Vision Transformer (ViT), a model that has demonstrated superior performance in image recognition tasks, to address the challenges faced by traditional shoe classification systems.
+
 ### Motivation 
 Have you ever been curious about your friends new shoes, or attracted by fancy shoes shows on ins photos? Time to try Nike shoes Recognizer! Traditional shoe classification systems struggle to differentiate among detailed and similar categories of Nike shoes. This project aims to improve classification precision by utilizing a Vision Transformer (ViT) model known for its effectiveness in handling complex image data.
 
