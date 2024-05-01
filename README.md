@@ -1,4 +1,4 @@
-# DS5690_project
+# Nike Shoes Classification and price range check
 
 ## Overview
 
